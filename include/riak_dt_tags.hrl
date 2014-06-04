@@ -20,6 +20,7 @@
 
 %% Registers
 -define(DT_LWWREG_TAG, 72).
+-define(DT_MVREG_TAG, 85).
 
 %% Counters
 -define(DT_GCOUNTER_TAG, 70).
